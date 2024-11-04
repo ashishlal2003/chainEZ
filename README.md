@@ -1,44 +1,33 @@
-<img width="1371" alt="Screenshot 2023-12-09 at 22 52 57" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/61138ae3-048e-40dc-a794-88a70593577e">
+# ChainEZ
 
+**Analyze on-chain transactions to identify your target audience, launch ad campaigns, and reward user engagement.**
 
-**Analyze onchain transactions to find your target audience, create ad campaigns, and reward them for their interaction.**
+---
 
-🌏 website: https://chainscout.xyz/
+### Motivations
 
-# Motivations
+ChainEZ addresses a significant challenge for dApp developers: identifying and engaging their ideal Web3 audience. By analyzing on-chain transactions, ChainEZ provides a platform for crafting targeted advertising campaigns. This allows Web3 projects to connect directly with users who are most likely to be interested in their products.
 
-Chain Scout presents a solution for dApp developers facing difficulties in identifying and engaging their ideal Web3 audience. 
-The platform utilizes on-chain transaction analysis to create targeted advertising strategies. 
-This approach allows Web3 projects to precisely connect with users likely to be interested in their products. 
+This focused approach enhances user interaction and engagement, filling a crucial gap in the Web3 market. Effective audience targeting is especially valuable in the dynamic Web3 ecosystem, where sustained user engagement is essential for success.
 
-By offering a more effective and efficient way of audience targeting, the platform aims to enhance user interaction and engagement for Web3 products, addressing a critical gap in the market.
-This targeted approach is especially valuable in the rapidly evolving Web3 ecosystem, where user engagement is key to success.
+---
 
-# Solution
+### Solution
 
-**1. Select onchain actions to analyze**
+1. **Select On-Chain Actions to Analyze**
 
-This could be something as simple as DAI transfer or Swap on Uniswap.
+   Choose specific actions, such as DAI transfers or swaps on Uniswap, to identify users and wallets associated with these transactions.
 
-We can find users/wallets who have had the onchain action
+2. **Filter the Analyzed Data**
 
-**2. Filter the analyzed data**
+   Narrow down the list of addresses by applying filters for attributes like ENS or Lens ownership.
 
-You can filter those addresses by checking if they have ENS, Lens etc…
+3. **Create a Campaign**
 
-**3. Create a campaign**
+   Define the outreach method to connect with your target audience and set up the incentives for engagement.
 
-Select how you want to reach your target and set up the incentive
+4. **Reward Your Users**
 
-**4. Reward your users**
+   Once users complete the specified on-chain actions, they can claim rewards.
 
-Users can claim the reward once they complete the onchain action
-
-# Deck
-<img width="1376" alt="Screenshot 2023-12-09 at 22 53 08" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/5b0ac663-de8e-42a5-9fe7-4d6c512f1b28">
-<img width="1377" alt="Screenshot 2023-12-09 at 22 53 18" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/e96451ab-a7fd-4938-922c-586e1278529f">
-<img width="1375" alt="Screenshot 2023-12-09 at 22 53 31" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/43d5ad71-a1da-462f-b15e-ac177bb4b26e">
-<img width="1379" alt="Screenshot 2023-12-09 at 22 53 41" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/4026886f-e4ae-4bd1-87e5-7ae9ac879fc9">
-<img width="1378" alt="Screenshot 2023-12-09 at 22 54 04" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/656b7065-088c-4088-9796-8de7033eef08">
-<img width="1374" alt="Screenshot 2023-12-09 at 22 54 20" src="https://github.com/ChainScout-xyz/chainscout/assets/90386676/3cb05a7b-0cf0-48b7-be43-b458858d4599">
-
+---
